@@ -1,0 +1,10 @@
+*.runs
+*.cache
+*.jou
+*.log
+*.str
+*.dmp
+*.xpr
+*.xml
+*.html
+*.wdb
