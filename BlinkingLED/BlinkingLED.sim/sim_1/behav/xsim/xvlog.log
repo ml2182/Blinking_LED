@@ -1,6 +1,0 @@
-INFO: [VRFC 10-2263] Analyzing SystemVerilog file "C:/Users/benma/Documents/FPGA/1st Project - Blinking LED/src/Blinking_LED.sv" into library xil_defaultlib
-INFO: [VRFC 10-311] analyzing module Blinking_LED
-INFO: [VRFC 10-2263] Analyzing SystemVerilog file "C:/Users/benma/Documents/FPGA/1st Project - Blinking LED/src/tb_Blinking_LED.sv" into library xil_defaultlib
-INFO: [VRFC 10-311] analyzing module tb_Blinking_LED
-INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/benma/Documents/FPGA/1st Project - Blinking LED/BlinkingLED/BlinkingLED.sim/sim_1/behav/xsim/glbl.v" into library xil_defaultlib
-INFO: [VRFC 10-311] analyzing module glbl
