@@ -33,7 +33,7 @@ initial begin
 
 end
 always begin
-    #10 clk = ~clk; // 50MHz clock
+    #5 clk = ~clk; // 100MHz clock
 end
 always @(led) begin
     $display("LED changed at time %0t, new value = %b", $time, led);
